@@ -1,0 +1,9 @@
+# Varsayilan: Git satir sonlarini kendisi yonetsin
+* text=auto
+
+# Batch dosyalari CRLF kalmali (cmd.exe etiketleri/goto icin)
+*.bat text eol=crlf
+
+# Ikili dosyalar
+*.ico binary
+*.png binary
