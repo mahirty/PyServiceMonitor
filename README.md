@@ -11,8 +11,8 @@
 
 </div>
 
-<!-- Ekran görüntüsü / Screenshot: docs/screenshot.png dosyasını ekleyip aşağıdaki satırın yorumunu kaldırın -->
-<!-- ![PyServiceMonitor](docs/screenshot.png) -->
+
+![PyServiceMonitor](docs/screenshot.png) -->
 
 ---
 
@@ -93,8 +93,8 @@ for s in snap.services:
 ### Kurulum ve çalıştırma
 
 ```bat
-git clone <repo-url>
-cd <repo>
+git clone https://github.com
+cd PyServiceMonitor 
 python -m pip install -r requirements.txt
 python app.py
 ```
