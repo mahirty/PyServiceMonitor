@@ -12,7 +12,7 @@
 </div>
 
 
-![PyServiceMonitor](docs/screenshot.png) -->
+![PyServiceMonitor](docs/screenshot.png)
 
 ---
 
@@ -93,8 +93,8 @@ for s in snap.services:
 ### Kurulum ve çalıştırma
 
 ```bat
-git clone https://github.com
-cd PyServiceMonitor 
+git clone https://github.com/mahirty/PyServiceMonitor.git
+cd PyServiceMonitor
 python -m pip install -r requirements.txt
 python app.py
 ```
@@ -194,8 +194,8 @@ for s in snap.services:
 ### Install & run
 
 ```bat
-git clone <repo-url>
-cd <repo>
+git clone https://github.com/mahirty/PyServiceMonitor.git
+cd PyServiceMonitor
 python -m pip install -r requirements.txt
 python app.py
 ```
